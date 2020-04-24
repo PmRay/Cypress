@@ -6,8 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  
-  "author": "",
+  "author": "PmRay",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^4.4.1"
