@@ -1,12 +1,12 @@
 {
   "name": "MyCypress Project",
   "version": "1.0.0",
-  "description": "Test of cypress",
+  "description": "Test of cypress on web",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "PmRay",
+  "author": "PmRay ",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^4.4.1"
